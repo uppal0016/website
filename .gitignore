@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/images
+/public/adminer
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/storage/*
+.env
+docker-staging.yml
